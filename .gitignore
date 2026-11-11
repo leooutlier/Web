@@ -1,0 +1,7 @@
+# Configuración local para previsualizar el sitio (no se publica)
+.claude/
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store

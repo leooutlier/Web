@@ -1,0 +1,23 @@
+SITIO WEB · LEO ARÉVALO
+=======================
+
+Contenido
+- index.html ........ Inicio
+- sobre-mi.html ..... Sobre mí
+- servicios.html .... Servicios
+- terminos.html ..... Términos y condiciones
+- privacidad.html ... Aviso de privacidad
+- 404.html .......... Página no encontrada (el hosting la muestra automáticamente)
+- support.js ........ Animaciones, menú, acordeones y formularios. Debe ir junto a las páginas.
+- assets/ ........... Imágenes y logos
+
+Publicar en Replit (sitio estático)
+1. Crea una app nueva con la plantilla "HTML, CSS, JS" (no con el Agent).
+2. Borra los archivos de ejemplo y sube TODO el contenido de esta carpeta, conservando la carpeta assets/.
+3. En Publishing elige "Static". Directorio público: /   ·   Build command: vacío.
+4. Publica y, si quieres, conecta tu dominio.
+
+Pendientes antes de lanzar
+- Conectar el formulario "Agenda tu primera sesión" y el correo de The Longevity Blueprint a un servicio que reciba los datos.
+- Número de WhatsApp del footer, enlaces de YouTube y Spotify.
+- Revisar los textos entre corchetes en Términos y Aviso de privacidad.
